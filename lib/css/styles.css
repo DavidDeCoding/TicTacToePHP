@@ -1,0 +1,24 @@
+div#profile { border : thin solid black; width : 550px; height : 400px; position : absolute; top : 20px; left :100px;}
+div#membersonline { border : thin solid black; width : 200px; height : 250px; position : absolute; top : 30px; left :700px;}
+div#challenges { border : thin solid black; width : 200px; height :	100px; position : absolute; top :305px; left : 700px;}
+div#logout { position : absolute; left :120px; top :130px; }
+div#membersheader { position : absolute; left : 700px; top : 10px; }
+div#challengesheader { position : absolute; left : 700px; top :285px;}
+p#content { position : absolute; left : 20px; top :20px; }
+span.info { color: blue; }
+
+
+a:hover { color : red; text-decoration : none; transparent : 20; }
+a:active { color : red; text-decoration : none;  }
+a:visited { color : red; text-decoration :none;  }
+a:link { color :red; text-decoration : none; }
+
+div#register { border : thin solid black; position : absolute; top : 200px; left : 150px; }
+div#login { border : thin solid black; position : absolute; top : 200px; left :400px; }
+div#feedback { position : absolute; top : 300px; left : 300px; }
+
+div#player_1 { color : blue; font-size : 30px; }
+div#player_2 { color : red; font-size : 30px; position : relative; left :300px; top: 0px;}
+div#board { width : 300px; height : 300px; position : relative; left : 100px; }
+div#controller { position : absolute; left : 600px; top : 200px; }
+.buttonplay { width : 90px; height : 90px; }
